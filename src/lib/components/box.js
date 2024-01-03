@@ -10,7 +10,7 @@ const Box = ({ color }) => {
   };   
 
   return (
-    <div className='box' style={styles.box} >Click</div>
+    <div className='box' style={styles.box} >Click Me </div>
   )
 }
 
