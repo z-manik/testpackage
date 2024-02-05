@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import Box from './lib/components/box'
+import Text from './lib/components/Text';
 function App() {
   return (
     <div className="App">
       <Box />
+      <Text />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

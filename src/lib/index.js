@@ -1,3 +1,3 @@
 import Box from "./components/box";
-
-export { Box };
+import Text from "./components/Text";
+export { Box, Text };
