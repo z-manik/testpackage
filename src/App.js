@@ -4,7 +4,7 @@ import Box from './lib/components/box'
 function App() {
   return (
     <div className="App">
-      <Box/>
+      <Box />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
